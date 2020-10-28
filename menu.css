@@ -1,0 +1,49 @@
+#fooldal a {
+	background-image: url(kepek/fooldal.png);
+	width: 135px;
+	height: 50px;
+	display: block;
+	color: transparent;
+}
+
+#fooldal a:hover {
+	background-position:left bottom;
+}
+
+
+#szolgaltatasok a {
+	background-image: url(kepek/szolgaltatasok.png);
+	width: 135px;
+	height: 50px;
+	display: block;
+	color: transparent;
+}
+
+#szolgaltatasok a:hover {
+	background-position:left bottom;
+}
+
+
+#referenciak a {
+	background-image: url(kepek/referenciak.png);
+	width: 135px;
+	height: 50px;
+	display: block;
+	color:transparent;
+}
+
+#referenciak a:hover {
+	background-position:left bottom;
+}
+
+#kapcsolat a {
+	background-image: url(kepek/kapcsolat.png);
+	width: 135px;
+	height: 50px;
+	display: block;
+	color:transparent;
+}
+
+#kapcsolat a:hover {
+	background-position:left bottom;
+}

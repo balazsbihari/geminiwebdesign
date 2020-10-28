@@ -1,0 +1,137 @@
+body {
+	background-color: black;
+	background-image: ;
+	font-family: "Museo 700";
+	text-shadow: 5px 5px 3px black;
+	margin-top: 35px;
+}
+
+
+#keret {
+	background-image: url(kepek/gemini03_900x600.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 900px;
+	height: 600px;
+}
+#keret p {
+	text-align: left;
+}
+
+#nyelv {
+	width: 1260px;
+	height: 100px;
+	background-color: ;
+	text-align: center;
+	background-image: ;
+	background-repeat: ;
+
+}
+#nyelv img {
+	border: 0;
+}
+
+#nyelv a:link, #nyelv a:active, #nyelv a:visited, #nyelv a:hover { 
+	text-decoration: none;
+	border: none;
+}
+
+#udvozles {
+	background-color: ;
+	height: 50px;
+	color: lightgreen;
+}
+
+#lablec {
+	width: 900px;
+	height: 100px;
+	background-color: ;
+	background-repeat: ;
+	color: gray;
+	
+}
+
+.katonajani {
+    background-image: url(kepek/katonajanosweb.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	vertical-align: bottom;
+	
+}
+
+.kornyezet {
+    background-image: url(kepek/kornyezet.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.lajos {
+    background-image: url(kepek/lajos.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.power {
+    background-image: url(kepek/power.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	text-align: center;
+	vertical-align: bottom;
+}
+
+.katonajani a:link, a:active, a:hover, a:visited {
+    text-decoration: none;
+    color: yellow;
+}
+
+.kornyezet a:link, a:active, a:hover, a:visited {
+    text-decoration: none;
+    color: yellow;
+}
+
+.lajos a:link, a:active, a:hover, a:visited {
+    text-decoration: none;
+    color: yellow;
+}
+
+.power a:link, a:active, a:hover, a:visited {
+    text-decoration: none;
+    color: yellow;
+}
+
+.betumeret {
+	font-size: 22px;
+	color: lightgreen;
+}
+
+.cimsor01 {
+	color:grey;
+}
+
+.cimsor02 {
+	color:orange;
+}
+
+.cimsor03 a:link, a:active, a:hover, a:visited {
+	color:pink;
+	text-decoration: none;
+	border: none;
+}
+
+.cimsor04 {
+	color:white;
+}
+
+.cimsor05 {
+	color:red;
+}
+
+.lista01 {
+	color:lightblue;
+}
+
